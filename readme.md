@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: NELSON RICARDO GUIJARRO VALLEJO
+- **Carrera**: DESARROLLO DE SOFTWARE
+- **Fecha de entrega**: 21 OCT 2025
 
 ---
 
